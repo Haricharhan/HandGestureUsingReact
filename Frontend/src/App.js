@@ -51,7 +51,7 @@ const App = () => {
             objectFit: "cover",
           }}
         >
-          <source src="/background.mp4" type="video/mp4" />
+          <source src="/background1.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </div>
